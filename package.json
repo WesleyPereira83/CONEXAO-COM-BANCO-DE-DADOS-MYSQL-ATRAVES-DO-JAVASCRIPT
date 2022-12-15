@@ -1,0 +1,27 @@
+{
+  "name": "conexao-com-banco-de-dados-mysql-com-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WesleyPereira83/CONEXAO-COM-BANCO-DE-DADOS-MYSQL-ATRAVES-DO-JAVASCRIPT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WesleyPereira83/CONEXAO-COM-BANCO-DE-DADOS-MYSQL-ATRAVES-DO-JAVASCRIPT/issues"
+  },
+  "homepage": "https://github.com/WesleyPereira83/CONEXAO-COM-BANCO-DE-DADOS-MYSQL-ATRAVES-DO-JAVASCRIPT#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.27.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
